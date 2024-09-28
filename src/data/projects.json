@@ -1,0 +1,31 @@
+[
+  {
+    "title": "Shopper E-commerce Website",
+    "imageSrc": "projects/project2.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Ex js", "Node"],
+    "source": "https://github.com/Supriya1110/Shopper-E-commerce-Website"
+  },
+    {
+      "title": "Spotify Clone",
+      "imageSrc": "projects/project1.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React","CSS","JS"],
+      "source": "https://github.com/Supriya1110/Spotify-Clone"
+    },
+    
+    {
+      "title": "Fitness Exercise App",
+      "imageSrc": "projects/project3.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "CSS", "API"],
+      "source": "https://github.com/Supriya1110/Fitness-Exercise-App"
+    },
+    {
+      "title": "TO-DO List",
+      "imageSrc": "projects/project4.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["HTML", "CSS", "JS"],
+      "source": "https://github.com/Supriya1110/TO-DO-List"
+    }
+  ]
