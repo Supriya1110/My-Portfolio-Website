@@ -27,5 +27,19 @@
       "description": "This is a project made to learn the latest languages by building an app.",
       "skills": ["HTML", "CSS", "JS"],
       "source": "https://github.com/Supriya1110/TO-DO-List"
+    },
+    {
+      "title": "Bank Management System",
+      "imageSrc": "projects/project5.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["Java"],
+      "source": "https://github.com/Supriya1110/Bank-Management-System"
+    },
+    {
+      "title": "Food Ordering App",
+      "imageSrc": "projects/project6.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["Java"],
+      "source": "https://github.com/Supriya1110/Food-Ordering-Project"
     }
   ]

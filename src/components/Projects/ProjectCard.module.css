@@ -8,11 +8,12 @@
     box-shadow: 0 16px 14px 0 #04152d;
     padding: 38px 24px;
     max-width: 395px;
-    height: 60vh;
   }
   
   .image {
     margin-bottom: 26px;
+    height: 180px;
+    width: auto;
   }
   
   .title {
