@@ -2,44 +2,44 @@
   {
     "title": "Shopper E-commerce Website",
     "imageSrc": "projects/project2.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "An e-commerce platform to explore modern web development.",
     "skills": ["React", "Ex js", "Node"],
     "source": "https://github.com/Supriya1110/Shopper-E-commerce-Website"
   },
-    {
-      "title": "Spotify Clone",
-      "imageSrc": "projects/project1.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React","CSS","JS"],
-      "source": "https://github.com/Supriya1110/Spotify-Clone"
-    },
-    
-    {
-      "title": "Fitness Exercise App",
-      "imageSrc": "projects/project3.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "CSS", "API"],
-      "source": "https://github.com/Supriya1110/Fitness-Exercise-App"
-    },
-    {
-      "title": "TO-DO List",
-      "imageSrc": "projects/project4.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["HTML", "CSS", "JS"],
-      "source": "https://github.com/Supriya1110/TO-DO-List"
-    },
-    {
-      "title": "Bank Management System",
-      "imageSrc": "projects/project5.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["Java"],
-      "source": "https://github.com/Supriya1110/Bank-Management-System"
-    },
-    {
-      "title": "Food Ordering App",
-      "imageSrc": "projects/project6.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["Java"],
-      "source": "https://github.com/Supriya1110/Food-Ordering-Project"
-    }
+  {
+    "title": "Spotify Clone",
+    "imageSrc": "projects/project1.png",
+    "description": "A replica of Spotify with essential music streaming features.",
+    "skills": ["React", "CSS", "JS"],
+    "source": "https://github.com/Supriya1110/Spotify-Clone"
+  },
+  {
+    "title": "Fitness Exercise App",
+    "imageSrc": "projects/project3.png",
+    "description": "A fitness app providing exercise guides and routines using APIs.",
+    "skills": ["React", "CSS", "API"],
+    "source": "https://github.com/Supriya1110/Fitness-Exercise-App"
+  },
+  {
+    "title": "TO-DO List",
+    "imageSrc": "projects/project4.png",
+    "description": "A simple task management app to keep track of daily activities.",
+    "skills": ["HTML", "CSS", "JS"],
+    "source": "https://github.com/Supriya1110/TO-DO-List"
+  },
+  {
+    "title": "Bank Management System",
+    "imageSrc": "projects/project5.png",
+    "description": "A system for managing bank accounts, deposits and withdrawal.",
+    "skills": ["Java"],
+    "source": "https://github.com/Supriya1110/Bank-Management-System"
+  },
+  {
+    "title": "Food Ordering App",
+    "imageSrc": "projects/project6.png",
+    "description": "An app for ordering food with menu selection and delivery features.",
+    "skills": ["Java"],
+    "source": "https://github.com/Supriya1110/Food-Ordering-Project"
+  }
+  
   ]
